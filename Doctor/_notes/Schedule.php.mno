@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Quiz_Id;datatype:int,name:Quiz_Name;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:Subject_Id;datatype:int,name:Subject_Name;datatype:string,name:Semester;datatype:string" />
+</info>
